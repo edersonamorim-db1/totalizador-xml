@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Doc3040 DtBase="2025-01" CNPJ="92228410" Remessa="1" Parte="1" TpArq="F"  MetodDifTJE="N" MetodApPE="S"  NomeResp="cinthia zubieta" EmailResp="cinthia.zubieta@omni.com.br" TelResp="1133653516"  TotalCli="1989969" >
+    <Cli Cd="01034434799" Tp="1" Autorzc="S" PorteCli="2" IniRelactCli="2021-12-22" FatAnual="1238.11" >
+        <Op Contrt="102929000152521" IPOC="922284100404101034434799102929000152521" Mod="0404" OrigemRec="0199" Indx="11" PercIndx="0.0000000" VarCamb="790" CEP="28945010" TaxEft="124.9667064" DtContr="2021-12-22" VlrContr="1566.63" NatuOp="01" DtVencOp="2023-01-22" ProvConsttd="0.00" DiaAtraso="801" CaracEspecial="19" >
+            <Venc v320="375.12" />
+            <Inf Tp="1601" Ident="23615598000129" />
+            <Inf Tp="0201" Ident="10878045" Perc="100.00" />
+            <ContInstFinRes4966 ClasAtFin="1" VlrContBr="375.12" TJE="124.9667064" CartProvMin="C3" />
+        </Op>
+    </Cli>
+    <Cli Cd="01458079406" Tp="1" Autorzc="S" PorteCli="2" IniRelactCli="2021-03-03" FatAnual="1500.00" >
+        <Op Contrt="102734000001221" IPOC="922284100404101458079406102734000001221" Mod="0404" OrigemRec="0199" Indx="11" PercIndx="0.0000000" VarCamb="790" CEP="52191040" TaxEft="112.9096241" DtContr="2021-05-05" VlrContr="1072.51" NatuOp="01" DtVencOp="2022-02-04" ProvConsttd="0.00" DiaAtraso="1245" CaracEspecial="19" >
+            <Venc v320="908.83" />
+            <Inf Tp="1601" Ident="23615598000129" />
+            <Inf Tp="0201" Ident="14395655" Perc="100.00" />
+            <ContInstFinRes4966 ClasAtFin="1" VlrContBr="908.83" TJE="112.9096241" CartProvMin="C3" />
+        </Op>
+    </Cli>
+    <Cli Cd="02643386779" Tp="1" Autorzc="S" PorteCli="2" IniRelactCli="2021-11-16" FatAnual="1100.00" >
+        <Op Contrt="102929000127021" IPOC="922284100404102643386779102929000127021" Mod="0404" OrigemRec="0199" Indx="11" PercIndx="0.0000000" VarCamb="790" CEP="28945010" TaxEft="124.9667064" DtContr="2021-11-16" VlrContr="1131.58" NatuOp="01" DtVencOp="2023-08-05" ProvConsttd="0.00" DiaAtraso="698" CaracEspecial="19" >
+            <Venc v310="626.57" />
+            <Inf Tp="1601" Ident="23615598000129" />
+            <Inf Tp="0201" Ident="10878045" Perc="100.00" />
+            <ContInstFinRes4966 ClasAtFin="1" VlrContBr="626.57" TJE="124.9667064" CartProvMin="C3" />
+        </Op>
+    </Cli>
+    <Cli Cd="02643390539" Tp="1" Autorzc="S" PorteCli="0" IniRelactCli="2015-04-14" FatAnual="0.01" >
+        <Op Contrt="102325010298715" IPOC="922284100203102643390539102325010298715" Mod="0203" OrigemRec="0199" Indx="11" PercIndx="0.0000000" VarCamb="790" CEP="01435001" TaxEft="65.1628934" DtContr="2015-04-14" VlrContr="897.33" NatuOp="02" DtVencOp="2015-05-14" ProvConsttd="0.00" DiaAtraso="3550" CaracEspecial="01;19;11" >
+            <Venc v330="727.16" />
+            <Inf Tp="1001" Cd="2016-04-20" Ident="00360305" Valor="48.34" />
+            <ContInstFinRes4966 ClasAtFin="1" VlrContBr="727.16" TJE="65.1628934" CartProvMin="C5" />
+        </Op>
+    </Cli>
+</Doc3040>
+ 
